@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Tumiso Dinkoanyane</h1>
-<h3 align="center">👨‍💻 Aspiring Software Engineer | Passionate Learner | Open Source Enthusiast</h3>
+<h3 align="center">👨‍💻 Aspiring Software Engineer | 🌱 Passionate Learner | Open Source Enthusiast</h3>
 
-- 🌱 I’m currently learning **Data Structures,Frameworks,Data Analysis**
+- 🌱 
 
-- 💬 Ask me about **Python,Java,HTML,CSS,Javascript,Excel,**
+- 💬 
 
-- 📫 How to reach me **cloudmaindesk@outlook.com**
+- 📫
+
+-
+
+-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
